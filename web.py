@@ -5,7 +5,7 @@ import discord.ext as commands
 import discord
 import time
 
-BOT = 'OTI3MzQzNTk1NjU1MTU1NzY0.YdI2Bg.yZLqR9uZNIjB50RGpkOmBUz9AQE'
+BOT = TOKEN
 client = discord.Client()
 
 GameRunning = False
