@@ -76,6 +76,7 @@ class Game():
     
 
     
+    
 @client.event
 async def on_ready():
     print ("Bot is online 🙉") 
