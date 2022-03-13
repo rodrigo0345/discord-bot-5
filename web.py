@@ -5,6 +5,10 @@ import discord.ext as commands
 import discord
 import time
 
+# I´m just playing with
+# apis so plz dont take my 
+# work seriously :)
+
 BOT = TOKEN
 client = discord.Client()
 
